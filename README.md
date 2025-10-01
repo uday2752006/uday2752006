@@ -144,6 +144,5 @@ I'm a passionate Computer Engineering student specializing in AI & ML with exper
 
 ### ⚡ **Always Learning, Always Building, Always Growing!** ⚡
 
-<img src="https://profile-counter.glitch.me/uday2752006/count.svg" />
 
 </div>
