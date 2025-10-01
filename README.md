@@ -6,7 +6,7 @@
 <br>
 
 <!-- Profile Photo Placeholder - Replace with your image -->
-<img src="https://raw.githubusercontent.com/uday2752006/uday2752006/main/profile.jpg" width="200" style="border-radius:50%;" />
+<img src="https://ibb.co/6RTB7Ntv" width="200" style="border-radius:50%; border:4px solid #4ECDC4;" alt="Uday Sai" />
 
 <br>
 
