@@ -6,7 +6,8 @@
 <br>
 
 <!-- Profile Photo Placeholder - Replace with your image -->
-<img src="https://avatars.githubusercontent.com/u/your-profile-id" width="200" height="200" style="border-radius:50%; border:4px solid #4ECDC4;" alt="Uday Sai" />
+<img src="<img width="928" height="1120" alt="linked in-profile" src="https://github.com/user-attachments/assets/81acd600-4789-4230-95c8-2e137bffd19c" />
+" width="200" height="200" style="border-radius:50%; border:4px solid #4ECDC4;" alt="Uday Sai" />
 
 <br>
 
