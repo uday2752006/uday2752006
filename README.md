@@ -6,7 +6,7 @@
 <br>
 
 <!-- YOUR PHOTO - This uses your GitHub profile picture -->
-<img src="https://github.com/uday2752006.png" width="200" height="200" style="border-radius:50%; border:4px solid #4ECDC4;" alt="Uday Sai" />
+<img src="https://github.com/uday2752006.png" height="400" width="200"  style="border-radius:50%; border:4px solid #4ECDC4;" alt="Uday Sai" />
 
 <br>
 
