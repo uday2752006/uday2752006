@@ -103,7 +103,7 @@ I'm a passionate Computer Engineering student specializing in AI & ML with exper
 - Optimized website performance and user experience
 
 ### **🧠 DSA Training**
-**Smart Interviews** | *March 2025 – Present* | Vijayawada, India
+**Smart Interviews** | *March 2025 – October 2025* | Vijayawada, India
 - Intensive training in Data Structures and Algorithms
 - Practicing advanced problem-solving techniques
 - Preparing for technical interviews
