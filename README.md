@@ -25,8 +25,8 @@
 
 I'm a passionate Computer Engineering student specializing in AI & ML with expertise in building intelligent systems and web applications.
 
-- 🔭 **Currently Working On:** Smart Finance Chatbot
-- 🌱 **Currently Learning:** Generative AI, Backend Development, Advanced DSA
+- 🔭 **Currently Working On:** AI Mock Interview Platform 
+- 🌱 **Currently Learning:** Deep Learning, Backend Development, Advanced DSA
 - 💼 **Seeking:** Machine Learning & AI Engineering opportunities
 - 📫 **How to reach me:** udaysai2752006@gmail.com
 - ⚡ **Fun fact:** Perfect 600/600 score in SSC Board Exams! 🎯
