@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Udaya%20Sai&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Crafting+Full-Stack+Applications+%F0%9F%8C%90;Exploring+Deep+Learning+%F0%9F%94%AC;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Crafting+Full-Stack+Applications+%F0%9F%8C%90;Exploring+Deep+Learning+%F0%9F%94%AC;Turning+Data+into+Decisions+%F0%9F%93%8A;Passionate+about+AI+%26+Open+Source+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -16,6 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=uday2752006&label=Profile+Views&color=0891b2&style=flat-square" />
   <img src="https://img.shields.io/github/followers/uday2752006?label=Followers&style=flat-square&color=0891b2" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Lives-Vijayawada%2C%20India-blue?style=flat-square" />
 </p>
 
@@ -25,36 +26,75 @@
 
 ## `$ whoami`
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
 ```python
 class UdayaSai:
     def __init__(self):
-        self.name        = "Udaya Sai"
-        self.role        = ["Machine Learning Engineer", "Full-Stack Developer"]
-        self.education   = "B.Tech CSE (AI & ML) @ PVPSIT, Vijayawada | CGPA: 9.2"
-        self.passions    = ["AI Research", "Building scalable systems", "Problem solving"]
-        self.currently   = "Building an AI-powered Mock Interview Platform"
-        self.learning    = ["Deep Learning architectures", "MLOps", "System Design"]
-        self.goal        = "Create AI systems that solve real-world problems at scale"
-        self.email       = "udaysai2752006@gmail.com"
+        self.name      = "Udaya Sai"
+        self.role      = [
+            "AI/ML Engineer",
+            "Full-Stack Developer",
+        ]
+        self.education = {
+            "degree"  : "B.Tech CSE (AI & ML)",
+            "college" : "PVPSIT, Vijayawada",
+            "cgpa"    : 9.2,
+            "batch"   : "2023 – 2027",
+        }
+        self.stack = {
+            "ai_ml"   : ["Python","TensorFlow","Scikit-learn","Pandas"],
+            "web"     : ["React","Node.js","JavaScript","HTML/CSS"],
+            "db"      : ["MongoDB","MySQL"],
+            "tools"   : ["Git","VS Code","Jupyter"],
+        }
+        self.currently = "AI Mock Interview Platform 🚀"
+        self.learning  = ["Deep Learning","LLMs","MLOps","System Design"]
+        self.goal      = "Ship AI products that create real-world impact"
+        self.email     = "udaysai2752006@gmail.com"
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together.")
+        print("Thanks for stopping by!")
+        print("Let's build the future together. 🤝")
 
 me = UdayaSai()
 me.say_hi()
 ```
 
+</td>
+<td valign="top" width="45%">
+
+### 🚀 Quick Facts
+- 🔭 **Building:** AI Mock Interview Platform
+- 🌱 **Learning:** Deep Learning · LLMs · MLOps
+- 🏢 **Interned at:** Cyient · Elevate Labs · Apex Planet
+- 🧩 **DSA:** Completed @ Smart Interviews ✅
+- 🎯 **Goal:** AI/ML Engineering at scale
+- 🏆 **SSC:** Perfect 600/600 Score
+- 💬 **Ask me about:** Python · ML pipelines · React · AI
+- 📫 **Reach me:** udaysai2752006@gmail.com
+
+<br/>
+
+### 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday.devu/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:udaysai2752006@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/uday2752006/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/devu.uday/)
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🧠 About Me
 
-I'm a Computer Engineering student specializing in **AI & ML**, passionate about building intelligent systems that bridge the gap between cutting-edge research and practical applications. I enjoy the full spectrum — from training models and fine-tuning algorithms to architecting responsive web apps that bring those models to life.
+I'm a Computer Engineering student specializing in **AI & ML**, passionate about building intelligent systems that bridge cutting-edge research with practical applications. I thrive across the full spectrum — from training models and engineering data pipelines to architecting responsive full-stack apps that bring AI to life.
 
-- 🔭 **Current Project:** AI Mock Interview Platform with real-time feedback
-- 🌱 **Currently Deep-Diving Into:** Deep Learning, LLMs, MLOps & System Design
-- 🎯 **Career Goal:** ML/AI Engineering roles where I can ship impactful products
-- 🏆 **Achievement Unlocked:** Perfect 600/600 in SSC — the streak started early!
-- 💬 **Ask me about:** Python, ML pipelines, React, or anything AI
+> *"The goal is not to build AI that replaces humans — but AI that empowers them."*
 
 ---
 
@@ -82,27 +122,38 @@ I'm a Computer Engineering student specializing in **AI & ML**, passionate about
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uday2752006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday2752006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
 
-<div align="center">
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=uday2752006&theme=tokyonight&hide_border=true" />
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uday2752006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday2752006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uday2752006&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+<br/>
+
+<img width="80%" src="https://streak-stats.demolab.com/?user=uday2752006&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uday2752006&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" width="90%" />
+
 </div>
 
 ---
 
 ## 💼 Professional Experience
+
+### 🧠 AI/ML Intern — *Cyient*
+`2025` | Vijayawada, India
+
+- Working on applied AI/ML projects in a professional enterprise environment
+- Hands-on with real-world datasets, model building, and intelligent system design
+- Collaborating with experienced engineers on production-grade AI solutions
+- *(Details to be updated)*
 
 ### 🤖 Machine Learning Intern — *Elevate Labs*
 `May 2025 – June 2025` | Vijayawada, India
@@ -115,17 +166,16 @@ I'm a Computer Engineering student specializing in **AI & ML**, passionate about
 ### 🌐 Frontend Web Developer Intern — *Apex Planet*
 `June 2025 – July 2025` | Vijayawada, India
 
-- Designed and shipped responsive, accessible web interfaces using React and modern CSS techniques
-- Collaborated cross-functionally with backend engineers and designers on live production projects
+- Designed and shipped responsive, accessible web interfaces using React and modern CSS
+- Collaborated cross-functionally with backend engineers on live production projects
 - Optimized page load performance and improved UI/UX based on user feedback
-- Contributed to component libraries and maintained clean, reusable code standards
 
-### 🧩 DSA Training — *Smart Interviews*
+### 🧩 DSA Training — *Smart Interviews* ✅ Completed
 `March 2025 – October 2025` | Vijayawada, India
 
-- Intensive training program covering advanced Data Structures and Algorithms
-- Strengthened problem-solving skills across arrays, trees, graphs, DP, and more
-- Preparing for technical interviews at top-tier product-based companies
+- Completed intensive training covering advanced Data Structures and Algorithms
+- Mastered problem-solving across arrays, trees, graphs, dynamic programming, and more
+- Strong foundation for technical interviews at top-tier product-based companies
 
 ---
 
@@ -154,12 +204,14 @@ I'm a Computer Engineering student specializing in **AI & ML**, passionate about
 
 ## 🚀 Featured Projects
 
-> *(Check pinned repos below — more coming soon!)*
-
 ### 🎙️ AI Mock Interview Platform *(In Progress)*
-An end-to-end AI-powered platform that simulates technical interviews, evaluates responses using NLP, and provides structured feedback to help candidates prepare effectively.
-- **Stack:** React, Node.js, Python, NLP/ML models
-- **Features:** Real-time question generation, answer analysis, performance reports
+An end-to-end AI-powered platform that simulates technical interviews, evaluates responses using NLP, and provides structured, actionable feedback to help candidates prepare effectively.
+
+- **Stack:** React · Node.js · Python · NLP/ML models
+- **Features:** Real-time question generation · Answer analysis · Performance reports
+- **Goal:** Help students and job-seekers ace technical interviews with AI-driven coaching
+
+> 📌 *Check pinned repositories below for more projects!*
 
 ---
 
@@ -182,11 +234,7 @@ An end-to-end AI-powered platform that simulates technical interviews, evaluates
 
 <br/><br/>
 
-> *"The goal is not to build AI that replaces humans, but AI that empowers them."*
-
-<br/>
-
-**⚡ Currently open to ML Engineering & AI roles — let's build the future together!**
+**⚡ Currently open to AI/ML Engineering & Full-Stack roles — let's build the future together!**
 
 <br/>
 
