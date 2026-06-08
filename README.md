@@ -30,45 +30,13 @@
 <tr>
 <td valign="top" width="55%">
 
-```python
-class UdayaSai:
-    def __init__(self):
-        self.name      = "Udaya Sai"
-        self.role      = [
-            "AI/ML Engineer",
-            "Full-Stack Developer",
-        ]
-        self.education = {
-            "degree"  : "B.Tech CSE (AI & ML)",
-            "college" : "PVPSIT, Vijayawada",
-            "cgpa"    : 9.2,
-            "batch"   : "2023 – 2027",
-        }
-        self.stack = {
-            "ai_ml"   : ["Python","TensorFlow","Scikit-learn","Pandas"],
-            "web"     : ["React","Node.js","JavaScript","HTML/CSS"],
-            "db"      : ["MongoDB","MySQL"],
-            "tools"   : ["Git","VS Code","Jupyter"],
-        }
-        self.currently = "AI Mock Interview Platform 🚀"
-        self.learning  = ["Deep Learning","LLMs","MLOps","System Design"]
-        self.goal      = "Ship AI products that create real-world impact"
-        self.email     = "udaysai2752006@gmail.com"
-
-    def say_hi(self):
-        print("Thanks for stopping by!")
-        print("Let's build the future together. 🤝")
-
-me = UdayaSai()
-me.say_hi()
-```
 
 </td>
 <td valign="top" width="45%">
 
 ### 🚀 Quick Facts
 - 🔭 **Building:** AI Mock Interview Platform
-- 🌱 **Learning:** Deep Learning · LLMs · MLOps
+- 🌱 **Learning:** Deep Learning · LLMs · Backend
 - 🏢 **Interned at:** Cyient · Elevate Labs · Apex Planet
 - 🧩 **DSA:** Completed @ Smart Interviews ✅
 - 🎯 **Goal:** AI/ML Engineering at scale
@@ -148,20 +116,13 @@ I'm a Computer Engineering student specializing in **AI & ML**, passionate about
 ## 💼 Professional Experience
 
 ### 🧠 AI/ML Intern — *Cyient*
-`2025` | Vijayawada, India
+`May 2026 - July 2026` | Hyderabad, India
 
 - Working on applied AI/ML projects in a professional enterprise environment
 - Hands-on with real-world datasets, model building, and intelligent system design
 - Collaborating with experienced engineers on production-grade AI solutions
 - *(Details to be updated)*
 
-### 🤖 Machine Learning Intern — *Elevate Labs*
-`May 2025 – June 2025` | Vijayawada, India
-
-- Developed and deployed end-to-end ML models on real-world datasets with measurable accuracy improvements
-- Engineered robust data preprocessing pipelines and performed advanced feature engineering
-- Managed the complete ML lifecycle: data ingestion → model training → evaluation → deployment
-- Documented model performance metrics and insights for stakeholder review
 
 ### 🌐 Frontend Web Developer Intern — *Apex Planet*
 `June 2025 – July 2025` | Vijayawada, India
