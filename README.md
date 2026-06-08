@@ -24,14 +24,9 @@
 
 ---
 
-## `$ whoami`
 
 <table>
 <tr>
-<td valign="top" width="55%">
-
-
-</td>
 <td valign="top" width="45%">
 
 ### 🚀 Quick Facts
