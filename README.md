@@ -27,7 +27,7 @@
 
 <table>
 <tr>
-<td valign="top" width="45%">
+<td valign="top" width="100%">
 
 ### 🚀 Quick Facts
 - 🔭 **Building:** AI Mock Interview Platform
