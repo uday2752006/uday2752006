@@ -22,8 +22,8 @@
 
 </div>
 
----
-
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <table>
 <tr>
@@ -51,7 +51,8 @@
 </tr>
 </table>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧠 About Me
 
@@ -59,7 +60,8 @@ I'm a Computer Engineering student specializing in **AI & ML**, passionate about
 
 > *"The goal is not to build AI that replaces humans — but AI that empowers them."*
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Arsenal
 
@@ -87,7 +89,8 @@ I'm a Computer Engineering student specializing in **AI & ML**, passionate about
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
@@ -102,38 +105,83 @@ I'm a Computer Engineering student specializing in **AI & ML**, passionate about
 
 <br/>
 
+<!-- GitHub Trophies - Animated on load -->
+<img src="https://github-profile-trophy.vercel.app/?username=uday2752006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%" />
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=uday2752006&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" width="90%" />
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uday2752006/uday2752006/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uday2752006/uday2752006/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/uday2752006/uday2752006/output/github-snake-dark.svg" width="90%" />
+  </picture>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 Professional Experience
 
-### 🧠 AI/ML Intern — *Cyient*
-`May 2026 - July 2026` | Hyderabad, India
+<details open>
+<summary><b>🧠 AI/ML Intern — Cyient &nbsp;|&nbsp; <code>May 2026 – July 2026</code> &nbsp;|&nbsp; Hyderabad, India</b></summary>
+<br/>
 
 - Working on applied AI/ML projects in a professional enterprise environment
 - Hands-on with real-world datasets, model building, and intelligent system design
 - Collaborating with experienced engineers on production-grade AI solutions
-- *(Details to be updated)*
+- Building and evaluating models for domain-specific business problems
 
+</details>
 
-### 🌐 Frontend Web Developer Intern — *Apex Planet*
-`June 2025 – July 2025` | Vijayawada, India
+<br/>
+
+<details open>
+<summary><b>🤖 Machine Learning Intern — Elevate Labs &nbsp;|&nbsp; <code>May 2025 – June 2025</code> &nbsp;|&nbsp; Vijayawada, India</b></summary>
+<br/>
+
+- Developed and deployed end-to-end ML models on real-world datasets with measurable accuracy improvements
+- Engineered robust data preprocessing pipelines and performed advanced feature engineering
+- Managed the complete ML lifecycle: data ingestion → model training → evaluation → deployment
+- Documented model performance metrics and insights for stakeholder review
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🌐 Frontend Web Developer Intern — Apex Planet &nbsp;|&nbsp; <code>June 2025 – July 2025</code> &nbsp;|&nbsp; Vijayawada, India</b></summary>
+<br/>
 
 - Designed and shipped responsive, accessible web interfaces using React and modern CSS
 - Collaborated cross-functionally with backend engineers on live production projects
 - Optimized page load performance and improved UI/UX based on user feedback
 
-### 🧩 DSA Training — *Smart Interviews* ✅ Completed
-`March 2025 – October 2025` | Vijayawada, India
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🧩 DSA Training — Smart Interviews ✅ Completed &nbsp;|&nbsp; <code>March 2025 – October 2025</code> &nbsp;|&nbsp; Vijayawada, India</b></summary>
+<br/>
 
 - Completed intensive training covering advanced Data Structures and Algorithms
 - Mastered problem-solving across arrays, trees, graphs, dynamic programming, and more
 - Strong foundation for technical interviews at top-tier product-based companies
 
----
+</details>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎓 Education
 
@@ -143,7 +191,8 @@ I'm a Computer Engineering student specializing in **AI & ML**, passionate about
 | **Intermediate — MPC** | KBN SHINE, Vijayawada | 2020 – 2022 | **92.5%** |
 | **SSC** | K.C High School, Vijayawada | 2019 | **600 / 600 🏆** |
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📜 Certifications
 
@@ -156,20 +205,25 @@ I'm a Computer Engineering student specializing in **AI & ML**, passionate about
 | 🗄️ Database Management Systems | Udemy |
 | 📊 Machine Learning Foundations | ARC Academy |
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
 ### 🎙️ AI Mock Interview Platform *(In Progress)*
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2000&color=00D9FF&width=600&lines=Tech+Stack%3A+React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+NLP%2FML+Models" />
+
 An end-to-end AI-powered platform that simulates technical interviews, evaluates responses using NLP, and provides structured, actionable feedback to help candidates prepare effectively.
 
-- **Stack:** React · Node.js · Python · NLP/ML models
-- **Features:** Real-time question generation · Answer analysis · Performance reports
-- **Goal:** Help students and job-seekers ace technical interviews with AI-driven coaching
+- 🧠 **Features:** Real-time question generation · Answer analysis · Performance reports
+- 🎯 **Goal:** Help students and job-seekers ace technical interviews with AI-driven coaching
+- 🔧 **Status:** Active development — stay tuned!
 
 > 📌 *Check pinned repositories below for more projects!*
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Let's Connect
 
@@ -182,7 +236,8 @@ An end-to-end AI-powered platform that simulates technical interviews, evaluates
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
@@ -190,7 +245,8 @@ An end-to-end AI-powered platform that simulates technical interviews, evaluates
 
 <br/><br/>
 
-**⚡ Currently open to AI/ML Engineering & Full-Stack roles — let's build the future together!**
+<!-- Animated Footer Text -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=⚡+Open+to+AI%2FML+Engineering+%26+Full-Stack+roles;Let's+build+the+future+together!+🚀;Drop+a+message+—+always+happy+to+connect+🤝" />
 
 <br/>
 
