@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Udaya%20Sai&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Udaya%20Sai&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Crafting+Full-Stack+Applications+%F0%9F%8C%90;Exploring+Deep+Learning+%F0%9F%94%AC;Turning+Data+into+Decisions+%F0%9F%93%8A;Passionate+about+AI+%26+Open+Source+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Crafting+Full-Stack+Applications+%F0%9F%8C%90;Exploring+Deep+Learning+%26+LLMs+%F0%9F%94%AC;Turning+Data+into+Real-World+Decisions+%F0%9F%93%8A;Passionate+about+AI+%26+Open+Source+%E2%9C%A8;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -22,56 +22,67 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!-- ANIMATED DIVIDER 1 — Pulse Wave -->
-<p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" width="100%" height="60">
-  <defs>
-    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1"/>
-      <stop offset="30%" style="stop-color:#00D9FF;stop-opacity:1"/>
-      <stop offset="70%" style="stop-color:#7C3AED;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1"/>
-    </linearGradient>
-    <filter id="glow1">
-      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <path d="M0,30 Q100,5 200,30 Q300,55 400,30 Q500,5 600,30 Q700,55 800,30 Q900,5 1000,30 Q1100,55 1200,30" 
-        stroke="url(#wave1)" stroke-width="2.5" fill="none" filter="url(#glow1)">
-    <animate attributeName="d" dur="4s" repeatCount="indefinite"
-      values="M0,30 Q100,5 200,30 Q300,55 400,30 Q500,5 600,30 Q700,55 800,30 Q900,5 1000,30 Q1100,55 1200,30;
-              M0,30 Q100,55 200,30 Q300,5 400,30 Q500,55 600,30 Q700,5 800,30 Q900,55 1000,30 Q1100,5 1200,30;
-              M0,30 Q100,5 200,30 Q300,55 400,30 Q500,5 600,30 Q700,55 800,30 Q900,5 1000,30 Q1100,55 1200,30"/>
-  </path>
-  <!-- Glowing dots along the wave -->
-  <circle r="4" fill="#00D9FF" filter="url(#glow1)">
-    <animateMotion dur="4s" repeatCount="indefinite"
-      path="M0,30 Q100,5 200,30 Q300,55 400,30 Q500,5 600,30 Q700,55 800,30 Q900,5 1000,30 Q1100,55 1200,30"/>
-  </circle>
-  <circle r="3" fill="#7C3AED" filter="url(#glow1)">
-    <animateMotion dur="4s" begin="-2s" repeatCount="indefinite"
-      path="M0,30 Q100,5 200,30 Q300,55 400,30 Q500,5 600,30 Q700,55 800,30 Q900,5 1000,30 Q1100,55 1200,30"/>
-  </circle>
-</svg>
-</p>
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
+<!-- WHOAMI SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=%24%20whoami&fontSize=28&fontColor=00D9FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
 <table>
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="58%">
+
+```python
+class UdayaSai:
+    def __init__(self):
+        self.name      = "Udaya Sai"
+        self.role      = [
+            "AI / ML Engineer",
+            "Full-Stack Developer",
+        ]
+        self.education = {
+            "degree"  : "B.Tech CSE (AI & ML)",
+            "college" : "PVPSIT, Vijayawada",
+            "cgpa"    : 9.2,
+            "batch"   : "2023 – 2027",
+        }
+        self.stack = {
+            "ai_ml" : ["Python","TensorFlow",
+                       "Scikit-learn","Pandas"],
+            "web"   : ["React","Node.js","JavaScript"],
+            "db"    : ["MongoDB","MySQL"],
+            "tools" : ["Git","VS Code","Jupyter"],
+        }
+        self.currently = "AI Mock Interview Platform 🚀"
+        self.learning  = ["Deep Learning","LLMs",
+                          "MLOps","System Design"]
+        self.goal = "Ship AI that creates real-world impact"
+        self.email = "udaysai2752006@gmail.com"
+
+    def say_hi(self):
+        print("Thanks for stopping by!")
+        print("Let's build the future together. 🤝")
+
+me = UdayaSai()
+me.say_hi()
+```
+
+</td>
+<td valign="top" width="42%">
 
 ### 🚀 Quick Facts
-- 🔭 **Building:** AI Mock Interview Platform
-- 🌱 **Learning:** Deep Learning · LLMs · Backend
-- 🏢 **Interned at:** Cyient · Elevate Labs · Apex Planet
-- 🧩 **DSA:** Completed @ Smart Interviews ✅
-- 🎯 **Goal:** AI/ML Engineering at scale
-- 🏆 **SSC:** Perfect 600/600 Score
-- 💬 **Ask me about:** Python · ML pipelines · React · AI
-- 📫 **Reach me:** udaysai2752006@gmail.com
+🔭 **Building:** AI Mock Interview Platform  
+🌱 **Learning:** Deep Learning · LLMs · MLOps  
+🏢 **Interned at:** Cyient · Elevate Labs · Apex Planet  
+🧩 **DSA:** Completed @ Smart Interviews ✅  
+🎯 **Goal:** AI/ML Engineering at scale  
+🏆 **SSC:** Perfect 600/600 Score  
+💬 **Ask me:** Python · ML · React · AI  
+📫 **Email:** udaysai2752006@gmail.com  
 
 <br/>
 
@@ -85,49 +96,31 @@
 </tr>
 </table>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!-- ANIMATED DIVIDER 2 — Circuit Lines -->
-<p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="100%" height="40">
-  <defs>
-    <linearGradient id="circuit-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0D1117"/>
-      <stop offset="20%" style="stop-color:#00D9FF"/>
-      <stop offset="50%" style="stop-color:#FF6B6B"/>
-      <stop offset="80%" style="stop-color:#00D9FF"/>
-      <stop offset="100%" style="stop-color:#0D1117"/>
-    </linearGradient>
-    <filter id="glow2"><feGaussianBlur stdDeviation="1.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  </defs>
-  <!-- Main line -->
-  <line x1="0" y1="20" x2="1200" y2="20" stroke="url(#circuit-grad)" stroke-width="1.5" opacity="0.4"/>
-  <!-- Circuit nodes -->
-  <circle cx="150" cy="20" r="3" fill="#00D9FF" filter="url(#glow2)"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
-  <circle cx="300" cy="20" r="3" fill="#FF6B6B" filter="url(#glow2)"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/></circle>
-  <circle cx="450" cy="20" r="3" fill="#00D9FF" filter="url(#glow2)"><animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="-0.5s" repeatCount="indefinite"/></circle>
-  <circle cx="600" cy="20" r="5" fill="#7C3AED" filter="url(#glow2)"><animate attributeName="r" values="4;6;4" dur="1.5s" repeatCount="indefinite"/></circle>
-  <circle cx="750" cy="20" r="3" fill="#00D9FF" filter="url(#glow2)"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" begin="-1s" repeatCount="indefinite"/></circle>
-  <circle cx="900" cy="20" r="3" fill="#FF6B6B" filter="url(#glow2)"><animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="-0.3s" repeatCount="indefinite"/></circle>
-  <circle cx="1050" cy="20" r="3" fill="#00D9FF" filter="url(#glow2)"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" begin="-1.5s" repeatCount="indefinite"/></circle>
-  <!-- Traveling pulse -->
-  <circle r="5" fill="#00D9FF" filter="url(#glow2)" opacity="0.9">
-    <animateMotion dur="3s" repeatCount="indefinite" path="M0,20 L1200,20"/>
-    <animate attributeName="opacity" values="0;1;1;0" dur="3s" repeatCount="indefinite"/>
-  </circle>
-</svg>
-</p>
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🧠 About Me
+<!-- ABOUT SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=%F0%9F%A7%A0%20About%20Me&fontSize=28&fontColor=00D9FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
 
 I'm a Computer Engineering student specializing in **AI & ML**, passionate about building intelligent systems that bridge cutting-edge research with practical applications. I thrive across the full spectrum — from training models and engineering data pipelines to architecting responsive full-stack apps that bring AI to life.
 
 > *"The goal is not to build AI that replaces humans — but AI that empowers them."*
 
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
-## 🛠️ Tech Arsenal
+<!-- TECH SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Arsenal&fontSize=28&fontColor=00D9FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<div align="center">
 
 ### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -153,270 +146,128 @@ I'm a Computer Engineering student specializing in **AI & ML**, passionate about
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<!-- ═══════════════════════════════════════════════ -->
-<!-- ANIMATED SKILL PROGRESS BARS -->
+</div>
 
-<br/>
-
-### 📈 Skill Proficiency
-
-<p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" width="700" height="400">
-  <defs>
-    <!-- Bar gradient: Python -->
-    <linearGradient id="g-py" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3776AB"/>
-      <stop offset="100%" style="stop-color:#00D9FF"/>
-    </linearGradient>
-    <!-- Bar gradient: ML/AI -->
-    <linearGradient id="g-ml" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FF6F00"/>
-      <stop offset="100%" style="stop-color:#FF6B6B"/>
-    </linearGradient>
-    <!-- Bar gradient: React -->
-    <linearGradient id="g-react" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#20232A"/>
-      <stop offset="100%" style="stop-color:#61DAFB"/>
-    </linearGradient>
-    <!-- Bar gradient: Java -->
-    <linearGradient id="g-java" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ED8B00"/>
-      <stop offset="100%" style="stop-color:#FFD700"/>
-    </linearGradient>
-    <!-- Bar gradient: DSA -->
-    <linearGradient id="g-dsa" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#7C3AED"/>
-      <stop offset="100%" style="stop-color:#A78BFA"/>
-    </linearGradient>
-    <!-- Bar gradient: Databases -->
-    <linearGradient id="g-db" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4EA94B"/>
-      <stop offset="100%" style="stop-color:#00FF88"/>
-    </linearGradient>
-    <!-- Glow filter -->
-    <filter id="bar-glow">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-
-  <!-- Background -->
-  <rect width="700" height="400" rx="16" fill="#0D1117"/>
-  <!-- Subtle grid lines -->
-  <line x1="200" y1="20" x2="200" y2="380" stroke="#1a2332" stroke-width="1"/>
-  <line x1="350" y1="20" x2="350" y2="380" stroke="#1a2332" stroke-width="1"/>
-  <line x1="500" y1="20" x2="500" y2="380" stroke="#1a2332" stroke-width="1"/>
-  <line x1="650" y1="20" x2="650" y2="380" stroke="#1a2332" stroke-width="1"/>
-
-  <!-- Title -->
-  <text x="350" y="35" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="15" font-weight="bold" fill="#00D9FF">⚡ Skill Proficiency</text>
-
-  <!-- ── Row 1: Python ── -->
-  <text x="10" y="78" font-family="monospace" font-size="13" fill="#ffffff">🐍 Python</text>
-  <text x="688" y="78" font-family="monospace" font-size="12" fill="#00D9FF" text-anchor="end">90%</text>
-  <!-- Track -->
-  <rect x="160" y="62" width="500" height="18" rx="9" fill="#1a2332"/>
-  <!-- Animated fill — width animates from 0 to 450 (90% of 500) -->
-  <rect x="160" y="62" width="450" height="18" rx="9" fill="url(#g-py)" filter="url(#bar-glow)">
-    <animate attributeName="width" from="0" to="450" dur="1.5s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
-  </rect>
-  <!-- Shimmer sweep -->
-  <rect x="160" y="62" width="80" height="18" rx="9" fill="white" opacity="0">
-    <animate attributeName="x" from="160" to="660" dur="2.5s" begin="1.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.15;0" dur="2.5s" begin="1.8s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- ── Row 2: Machine Learning / AI ── -->
-  <text x="10" y="122" font-family="monospace" font-size="13" fill="#ffffff">🤖 ML / AI</text>
-  <text x="688" y="122" font-family="monospace" font-size="12" fill="#FF6B6B" text-anchor="end">82%</text>
-  <rect x="160" y="106" width="500" height="18" rx="9" fill="#1a2332"/>
-  <rect x="160" y="106" width="410" height="18" rx="9" fill="url(#g-ml)" filter="url(#bar-glow)">
-    <animate attributeName="width" from="0" to="410" dur="1.5s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
-  </rect>
-  <rect x="160" y="106" width="80" height="18" rx="9" fill="white" opacity="0">
-    <animate attributeName="x" from="160" to="620" dur="2.5s" begin="2.0s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.15;0" dur="2.5s" begin="2.0s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- ── Row 3: React / Frontend ── -->
-  <text x="10" y="166" font-family="monospace" font-size="13" fill="#ffffff">⚛️ React</text>
-  <text x="688" y="166" font-family="monospace" font-size="12" fill="#61DAFB" text-anchor="end">85%</text>
-  <rect x="160" y="150" width="500" height="18" rx="9" fill="#1a2332"/>
-  <rect x="160" y="150" width="425" height="18" rx="9" fill="url(#g-react)" filter="url(#bar-glow)">
-    <animate attributeName="width" from="0" to="425" dur="1.5s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
-  </rect>
-  <rect x="160" y="150" width="80" height="18" rx="9" fill="white" opacity="0">
-    <animate attributeName="x" from="160" to="635" dur="2.5s" begin="2.2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.15;0" dur="2.5s" begin="2.2s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- ── Row 4: Java ── -->
-  <text x="10" y="210" font-family="monospace" font-size="13" fill="#ffffff">☕ Java</text>
-  <text x="688" y="210" font-family="monospace" font-size="12" fill="#FFD700" text-anchor="end">78%</text>
-  <rect x="160" y="194" width="500" height="18" rx="9" fill="#1a2332"/>
-  <rect x="160" y="194" width="390" height="18" rx="9" fill="url(#g-java)" filter="url(#bar-glow)">
-    <animate attributeName="width" from="0" to="390" dur="1.5s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
-  </rect>
-  <rect x="160" y="194" width="80" height="18" rx="9" fill="white" opacity="0">
-    <animate attributeName="x" from="160" to="600" dur="2.5s" begin="2.4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.15;0" dur="2.5s" begin="2.4s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- ── Row 5: DSA ── -->
-  <text x="10" y="254" font-family="monospace" font-size="13" fill="#ffffff">🧩 DSA</text>
-  <text x="688" y="254" font-family="monospace" font-size="12" fill="#A78BFA" text-anchor="end">88%</text>
-  <rect x="160" y="238" width="500" height="18" rx="9" fill="#1a2332"/>
-  <rect x="160" y="238" width="440" height="18" rx="9" fill="url(#g-dsa)" filter="url(#bar-glow)">
-    <animate attributeName="width" from="0" to="440" dur="1.5s" begin="0.9s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
-  </rect>
-  <rect x="160" y="238" width="80" height="18" rx="9" fill="white" opacity="0">
-    <animate attributeName="x" from="160" to="650" dur="2.5s" begin="2.6s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.15;0" dur="2.5s" begin="2.6s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- ── Row 6: Databases ── -->
-  <text x="10" y="298" font-family="monospace" font-size="13" fill="#ffffff">🗄️ Databases</text>
-  <text x="688" y="298" font-family="monospace" font-size="12" fill="#00FF88" text-anchor="end">80%</text>
-  <rect x="160" y="282" width="500" height="18" rx="9" fill="#1a2332"/>
-  <rect x="160" y="282" width="400" height="18" rx="9" fill="url(#g-db)" filter="url(#bar-glow)">
-    <animate attributeName="width" from="0" to="400" dur="1.5s" begin="1.1s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
-  </rect>
-  <rect x="160" y="282" width="80" height="18" rx="9" fill="white" opacity="0">
-    <animate attributeName="x" from="160" to="610" dur="2.5s" begin="2.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.15;0" dur="2.5s" begin="2.8s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Legend strip -->
-  <rect x="10" y="330" width="680" height="1" fill="#1a2332"/>
-  <text x="350" y="360" text-anchor="middle" font-family="monospace" font-size="11" fill="#444c5e">Self-assessed proficiency · Updated 2026</text>
-  <!-- Animated blinking cursor -->
-  <rect x="490" y="350" width="8" height="12" fill="#00D9FF" rx="1">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-</p>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!-- ANIMATED DIVIDER 3 — DNA Helix style -->
-<p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 50" width="100%" height="50">
-  <defs>
-    <filter id="glow3"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  </defs>
-  <!-- Top strand -->
-  <path d="M0,15 Q150,5 300,15 Q450,25 600,15 Q750,5 900,15 Q1050,25 1200,15"
-        stroke="#00D9FF" stroke-width="2" fill="none" filter="url(#glow3)" opacity="0.8">
-    <animate attributeName="d" dur="3s" repeatCount="indefinite"
-      values="M0,15 Q150,5 300,15 Q450,25 600,15 Q750,5 900,15 Q1050,25 1200,15;
-              M0,15 Q150,25 300,15 Q450,5 600,15 Q750,25 900,15 Q1050,5 1200,15;
-              M0,15 Q150,5 300,15 Q450,25 600,15 Q750,5 900,15 Q1050,25 1200,15"/>
-  </path>
-  <!-- Bottom strand -->
-  <path d="M0,35 Q150,45 300,35 Q450,25 600,35 Q750,45 900,35 Q1050,25 1200,35"
-        stroke="#7C3AED" stroke-width="2" fill="none" filter="url(#glow3)" opacity="0.8">
-    <animate attributeName="d" dur="3s" repeatCount="indefinite"
-      values="M0,35 Q150,45 300,35 Q450,25 600,35 Q750,45 900,35 Q1050,25 1200,35;
-              M0,35 Q150,25 300,35 Q450,45 600,35 Q750,25 900,35 Q1050,45 1200,35;
-              M0,35 Q150,45 300,35 Q450,25 600,35 Q750,45 900,35 Q1050,25 1200,35"/>
-  </path>
-  <!-- Cross-links (rungs) -->
-  <line x1="150" y1="10" x2="150" y2="40" stroke="#FF6B6B" stroke-width="1.5" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2s" repeatCount="indefinite"/></line>
-  <line x1="300" y1="15" x2="300" y2="35" stroke="#00D9FF" stroke-width="1.5" opacity="0.6"><animate attributeName="opacity" values="0.1;0.6;0.1" dur="2s" repeatCount="indefinite"/></line>
-  <line x1="450" y1="25" x2="450" y2="25" stroke="#FFD700" stroke-width="1.5" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2s" begin="-0.5s" repeatCount="indefinite"/></line>
-  <line x1="600" y1="10" x2="600" y2="40" stroke="#00D9FF" stroke-width="1.5" opacity="0.6"><animate attributeName="opacity" values="0.1;0.6;0.1" dur="2s" begin="-1s" repeatCount="indefinite"/></line>
-  <line x1="750" y1="15" x2="750" y2="35" stroke="#7C3AED" stroke-width="1.5" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2s" begin="-0.3s" repeatCount="indefinite"/></line>
-  <line x1="900" y1="10" x2="900" y2="40" stroke="#FF6B6B" stroke-width="1.5" opacity="0.6"><animate attributeName="opacity" values="0.1;0.6;0.1" dur="2s" begin="-1.5s" repeatCount="indefinite"/></line>
-  <line x1="1050" y1="25" x2="1050" y2="25" stroke="#00D9FF" stroke-width="1.5" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2s" begin="-0.7s" repeatCount="indefinite"/></line>
-</svg>
-</p>
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 📊 GitHub Analytics
+<!-- GITHUB STATS SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=28&fontColor=00D9FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uday2752006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uday2752006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday2752006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" />
 
 <br/>
 
-<img width="80%" src="https://streak-stats.demolab.com/?user=uday2752006&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+<img width="82%" src="https://streak-stats.demolab.com/?user=uday2752006&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&dates=aaaaaa" />
 
 <br/>
 
-<!-- 🏆 ANIMATED GITHUB TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=uday2752006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" />
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=uday2752006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uday2752006&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" width="90%" />
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uday2752006&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=00D9FF" width="92%" />
 
 </div>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!-- 🐍 SNAKE EATING CONTRIBUTIONS -->
-<!-- The snake GIF is auto-generated by the GitHub Action below.  -->
-<!-- Add this workflow file to your repo:                          -->
-<!-- .github/workflows/snake.yml                                  -->
-
-<br/>
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/uday2752006/uday2752006/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uday2752006/uday2752006/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/uday2752006/uday2752006/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!-- ANIMATED DIVIDER 4 — Particle stream -->
-<p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 30" width="100%" height="30">
-  <defs>
-    <filter id="glow4"><feGaussianBlur stdDeviation="1.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  </defs>
-  <line x1="0" y1="15" x2="1200" y2="15" stroke="#1a2332" stroke-width="1"/>
-  <!-- Particles -->
-  <circle r="3" fill="#00D9FF" filter="url(#glow4)"><animateMotion dur="4s" repeatCount="indefinite" path="M0,15 L1200,15"/><animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/></circle>
-  <circle r="2" fill="#FF6B6B" filter="url(#glow4)"><animateMotion dur="4s" begin="-1.3s" repeatCount="indefinite" path="M0,15 L1200,15"/><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="-1.3s" repeatCount="indefinite"/></circle>
-  <circle r="2.5" fill="#7C3AED" filter="url(#glow4)"><animateMotion dur="4s" begin="-2.6s" repeatCount="indefinite" path="M0,15 L1200,15"/><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="-2.6s" repeatCount="indefinite"/></circle>
-  <circle r="2" fill="#FFD700" filter="url(#glow4)"><animateMotion dur="4s" begin="-0.6s" repeatCount="indefinite" path="M0,15 L1200,15"/><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="-0.6s" repeatCount="indefinite"/></circle>
-  <circle r="3" fill="#00FF88" filter="url(#glow4)"><animateMotion dur="4s" begin="-2s" repeatCount="indefinite" path="M0,15 L1200,15"/><animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="-2s" repeatCount="indefinite"/></circle>
-</svg>
-</p>
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 💼 Professional Experience
+<!-- SNAKE SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=%F0%9F%90%8D%20Contribution%20Snake&fontSize=28&fontColor=00D9FF&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-### 🧠 AI/ML Intern — *Cyient*
-`May 2026 - July 2026` | Hyderabad, India
+<br/>
 
-- Working on applied AI/ML projects in a professional enterprise environment
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/uday2752006/uday2752006/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uday2752006/uday2752006/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/uday2752006/uday2752006/output/github-snake-dark.svg" width="92%" />
+</picture>
+
+</div>
+
+> ⚙️ **Setup Note:** To activate the snake, create `.github/workflows/snake.yml` in your profile repo with the [Platane/snk action](https://github.com/Platane/snk). It auto-generates every 24h.
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- EXPERIENCE SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=%F0%9F%92%BC%20Professional%20Experience&fontSize=28&fontColor=00D9FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<details open>
+<summary><b>🧠 AI / ML Intern — Cyient &nbsp;|&nbsp; <code>May 2026 – July 2026</code> &nbsp;|&nbsp; Hyderabad, India</b></summary>
+<br/>
+
+- Working on applied AI/ML projects in a professional enterprise environment at one of India's leading engineering companies
 - Hands-on with real-world datasets, model building, and intelligent system design
 - Collaborating with experienced engineers on production-grade AI solutions
-- *(Details to be updated)*
+- Building and evaluating models for domain-specific business problems at scale
 
+</details>
 
-### 🌐 Frontend Web Developer Intern — *Apex Planet*
-`June 2025 – July 2025` | Vijayawada, India
+<br/>
+
+<details open>
+<summary><b>🤖 Machine Learning Intern — Elevate Labs &nbsp;|&nbsp; <code>May 2025 – June 2025</code> &nbsp;|&nbsp; Vijayawada, India</b></summary>
+<br/>
+
+- Developed and deployed end-to-end ML models on real-world datasets with measurable accuracy improvements
+- Engineered robust data preprocessing pipelines and performed advanced feature engineering
+- Managed the complete ML lifecycle: data ingestion → model training → evaluation → deployment
+- Documented model performance metrics and insights for stakeholder review
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🌐 Frontend Web Developer Intern — Apex Planet &nbsp;|&nbsp; <code>June 2025 – July 2025</code> &nbsp;|&nbsp; Vijayawada, India</b></summary>
+<br/>
 
 - Designed and shipped responsive, accessible web interfaces using React and modern CSS
 - Collaborated cross-functionally with backend engineers on live production projects
 - Optimized page load performance and improved UI/UX based on user feedback
 
-### 🧩 DSA Training — *Smart Interviews* ✅ Completed
-`March 2025 – October 2025` | Vijayawada, India
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🧩 DSA Training — Smart Interviews ✅ Completed &nbsp;|&nbsp; <code>March 2025 – October 2025</code> &nbsp;|&nbsp; Vijayawada, India</b></summary>
+<br/>
 
 - Completed intensive training covering advanced Data Structures and Algorithms
 - Mastered problem-solving across arrays, trees, graphs, dynamic programming, and more
-- Strong foundation for technical interviews at top-tier product-based companies
+- Built a strong foundation for technical interviews at top-tier product-based companies
+
+</details>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🎓 Education
+<!-- EDUCATION SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=%F0%9F%8E%93%20Education&fontSize=28&fontColor=00D9FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
@@ -424,9 +275,15 @@ I'm a Computer Engineering student specializing in **AI & ML**, passionate about
 | **Intermediate — MPC** | KBN SHINE, Vijayawada | 2020 – 2022 | **92.5%** |
 | **SSC** | K.C High School, Vijayawada | 2019 | **600 / 600 🏆** |
 
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
-## 📜 Certifications
+<!-- CERTIFICATIONS SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=%F0%9F%93%9C%20Certifications&fontSize=28&fontColor=00D9FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
 
 | Certificate | Issuer |
 |-------------|--------|
@@ -437,47 +294,37 @@ I'm a Computer Engineering student specializing in **AI & ML**, passionate about
 | 🗄️ Database Management Systems | Udemy |
 | 📊 Machine Learning Foundations | ARC Academy |
 
-<!-- ═══════════════════════════════════════════════ -->
-<!-- ANIMATED DIVIDER 5 — Zigzag lightning -->
-<p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="100%" height="40">
-  <defs>
-    <filter id="glow5"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <linearGradient id="zg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0D1117"/>
-      <stop offset="15%" style="stop-color:#00D9FF"/>
-      <stop offset="50%" style="stop-color:#FF6B6B"/>
-      <stop offset="85%" style="stop-color:#7C3AED"/>
-      <stop offset="100%" style="stop-color:#0D1117"/>
-    </linearGradient>
-  </defs>
-  <polyline points="0,20 60,8 120,32 180,8 240,32 300,8 360,32 420,8 480,32 540,8 600,32 660,8 720,32 780,8 840,32 900,8 960,32 1020,8 1080,32 1140,8 1200,20"
-    stroke="url(#zg)" stroke-width="2" fill="none" filter="url(#glow5)">
-    <animate attributeName="stroke-dasharray" values="0,9999;9999,0" dur="1.5s" fill="freeze"/>
-  </polyline>
-  <!-- Traveling highlight -->
-  <circle r="5" fill="#00D9FF" filter="url(#glow5)">
-    <animateMotion dur="3s" repeatCount="indefinite" path="M0,20 L60,8 L120,32 L180,8 L240,32 L300,8 L360,32 L420,8 L480,32 L540,8 L600,32 L660,8 L720,32 L780,8 L840,32 L900,8 L960,32 L1020,8 L1080,32 L1140,8 L1200,20"/>
-  </circle>
-</svg>
-</p>
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🚀 Featured Projects
+<!-- PROJECTS SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=28&fontColor=00D9FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
 
 ### 🎙️ AI Mock Interview Platform *(In Progress)*
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2000&color=00D9FF&width=650&lines=Stack%3A+React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+TensorFlow+%C2%B7+NLP+Models" />
+
 An end-to-end AI-powered platform that simulates technical interviews, evaluates responses using NLP, and provides structured, actionable feedback to help candidates prepare effectively.
 
-- **Stack:** React · Node.js · Python · NLP/ML models
-- **Features:** Real-time question generation · Answer analysis · Performance reports
-- **Goal:** Help students and job-seekers ace technical interviews with AI-driven coaching
+- 🧠 **Features:** Real-time question generation · Answer analysis · Performance reports
+- 🎯 **Goal:** Help students and job-seekers ace technical interviews with AI-driven coaching
+- 🔧 **Status:** Active development — stay tuned!
 
 > 📌 *Check pinned repositories below for more projects!*
 
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
-## 🤝 Let's Connect
+<!-- CONNECT SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=%F0%9F%A4%9D%20Let%27s%20Connect&fontSize=28&fontColor=00D9FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<br/>
 
 <div align="center">
 
@@ -488,68 +335,23 @@ An end-to-end AI-powered platform that simulates technical interviews, evaluates
 
 </div>
 
----
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="82%" />
 
 <br/><br/>
 
-**⚡ Currently open to AI/ML Engineering & Full-Stack roles — let's build the future together!**
+<!-- Animated Footer Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Open+to+AI%2FML+Engineering+%26+Full-Stack+roles;Drop+a+message+—+always+happy+to+connect+%F0%9F%A4%9D;Let%27s+build+intelligent+systems+together+%F0%9F%9A%80" />
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
 
 </div>
-
----
-
-<!--
-════════════════════════════════════════════════════════════
-🐍 SNAKE SETUP — Add this GitHub Actions workflow to generate
-    the contribution snake automatically every day.
-
-Create file: .github/workflows/snake.yml
-════════════════════════════════════════════════════════════
-
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight UTC
-  workflow_dispatch:       # Manual trigger from Actions tab
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: uday2752006
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-════════════════════════════════════════════════════════════
-After the first run, the snake SVG will be live at:
-https://raw.githubusercontent.com/uday2752006/uday2752006/output/github-contribution-grid-snake-dark.svg
-════════════════════════════════════════════════════════════
--->
