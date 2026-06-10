@@ -34,44 +34,6 @@
 
 <table>
 <tr>
-<td valign="top" width="58%">
-
-```python
-class UdayaSai:
-    def __init__(self):
-        self.name      = "Udaya Sai"
-        self.role      = [
-            "AI / ML Engineer",
-            "Full-Stack Developer",
-        ]
-        self.education = {
-            "degree"  : "B.Tech CSE (AI & ML)",
-            "college" : "PVPSIT, Vijayawada",
-            "cgpa"    : 9.2,
-            "batch"   : "2023 – 2027",
-        }
-        self.stack = {
-            "ai_ml" : ["Python","TensorFlow",
-                       "Scikit-learn","Pandas"],
-            "web"   : ["React","Node.js","JavaScript"],
-            "db"    : ["MongoDB","MySQL"],
-            "tools" : ["Git","VS Code","Jupyter"],
-        }
-        self.currently = "AI Mock Interview Platform 🚀"
-        self.learning  = ["Deep Learning","LLMs",
-                          "MLOps","System Design"]
-        self.goal = "Ship AI that creates real-world impact"
-        self.email = "udaysai2752006@gmail.com"
-
-    def say_hi(self):
-        print("Thanks for stopping by!")
-        print("Let's build the future together. 🤝")
-
-me = UdayaSai()
-me.say_hi()
-```
-
-</td>
 <td valign="top" width="42%">
 
 ### 🚀 Quick Facts
