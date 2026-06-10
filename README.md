@@ -34,7 +34,7 @@
 
 <table>
 <tr>
-<td valign="top" width="42%">
+<td valign="top" width="100%">
 
 ### 🚀 Quick Facts
 🔭 **Building:** AI Mock Interview Platform  
@@ -116,7 +116,7 @@ I'm a Computer Engineering student specializing in **AI & ML**, passionate about
 ---
 
 <!-- GITHUB STATS SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=28&fontColor=00D9FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+
 
 <br/>
 
