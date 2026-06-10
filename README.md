@@ -116,27 +116,6 @@ I'm a Computer Engineering student specializing in **AI & ML**, passionate about
 ---
 
 <!-- GITHUB STATS SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=28&fontColor=00D9FF&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-<!-- Stats Card - reliable mirror, no include_all_commits to avoid timeout -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uday2752006&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday2752006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&cache_seconds=1800&hide=jupyter%20notebook" />
-
-<br/>
-
-<!-- Streak Stats - demolab is most reliable -->
-<img width="82%" src="https://streak-stats.demolab.com/?user=uday2752006&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&dates=aaaaaa" />
-
-<br/>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=uday2752006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" />
-
-<br/>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=uday2752006&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=00D9FF" width="92%" />
